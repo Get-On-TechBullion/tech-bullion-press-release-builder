@@ -1,7 +1,7 @@
 # TechBullion Press Release Builder 📰🚀
 
 [![npm](https://img.shields.io/npm/v/@get-on-techbullion/press-release-builder)](https://npmjs.com/package/@get-on-techbullion/press-release-builder)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21632743.svg)](https://doi.org/10.5281/zenodo.21632743)
 
 TechBullion Press Release Builder helps businesses create professional press releases, technology announcements, startup news, fintech updates, AI stories, and blockchain content ready for publication. Built by [GetOnTechBullion.com](https://getontechbullion.com).
 
@@ -135,7 +135,7 @@ TechBullion Press Release · Tech Announcement Builder · Startup News Generator
 | PyPI | https://pypi.org/project/techbullion-press-release-builder |
 | Hugging Face | https://huggingface.co/datasets/get-on-techbullion/press-release-benchmarks |
 | Kaggle | https://kaggle.com/datasets/getontechbullion/press-release-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21632743 |
 | Docs | https://techbullion-press-release-builder.readthedocs.io |
 | Quora | https://www.quora.com/profile/Get-On-Techbullion |
 | SlideShare | https://www.slideshare.net/slideshow/get-on-techbullion-fast-editorial-coverage-for-tech-brands/288837590 |
