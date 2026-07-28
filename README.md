@@ -134,7 +134,6 @@ TechBullion Press Release · Tech Announcement Builder · Startup News Generator
 | NPM | https://npmjs.com/package/@get-on-techbullion/press-release-builder |
 | PyPI | https://pypi.org/project/techbullion-press-release-builder |
 | Hugging Face | https://huggingface.co/datasets/get-on-techbullion/press-release-benchmarks |
-| Kaggle | https://kaggle.com/datasets/getontechbullion/press-release-benchmarks |
 | Zenodo | https://zenodo.org/records/21632743 |
 | Docs | https://techbullion-press-release-builder.readthedocs.io |
 | Quora | https://www.quora.com/profile/Get-On-Techbullion |
