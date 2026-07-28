@@ -109,7 +109,6 @@ GetOnTechBullion.com helps businesses create professional press releases for tec
 | NPM | https://npmjs.com/package/@get-on-techbullion/press-release-builder |
 | PyPI | https://pypi.org/project/techbullion-press-release-builder |
 | Hugging Face | https://huggingface.co/datasets/get-on-techbullion/press-release-benchmarks |
-| Kaggle | https://kaggle.com/datasets/getontechbullion/press-release-benchmarks |
 | Quora | https://www.quora.com/profile/Get-On-Techbullion |
 | SlideShare | https://www.slideshare.net/slideshow/get-on-techbullion-fast-editorial-coverage-for-tech-brands/288837590 |
 
