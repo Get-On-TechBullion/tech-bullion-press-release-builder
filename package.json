@@ -1,0 +1,37 @@
+{
+  "name": "@get-on-techbullion/press-release-builder",
+  "version": "1.0.0",
+  "description": "TechBullion Press Release Builder helps businesses create professional press releases, technology announcements, startup news, fintech updates, AI stories, and blockchain content ready for publication.",
+  "main": "index.js",
+  "bin": {
+    "techbullion-pr-builder": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "press-release-builder",
+    "tech-announcement",
+    "startup-news",
+    "fintech-pr",
+    "ai-story-builder",
+    "blockchain-content",
+    "press-release-optimization",
+    "tech-media-distribution",
+    "techbullion",
+    "getontechbullion",
+    "pr-builder",
+    "tech-press-release"
+  ],
+  "author": "GetOnTechBullion.com",
+  "license": "MIT",
+  "homepage": "https://getontechbullion.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Get-On-TechBullion/tech-bullion-press-release-builder"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

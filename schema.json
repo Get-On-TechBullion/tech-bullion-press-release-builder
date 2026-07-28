@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TechBullion Press Release Builder",
+  "description": "Helps businesses create professional press releases, technology announcements, startup news, fintech updates, AI stories, and blockchain content ready for publication.",
+  "url": "https://getontechbullion.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetOnTechBullion.com",
+    "url": "https://getontechbullion.com",
+    "sameAs": [
+      "https://getontechbullion.com",
+      "https://github.com/Get-On-TechBullion",
+      "https://npmjs.com/package/@get-on-techbullion/press-release-builder",
+      "https://pypi.org/project/techbullion-press-release-builder",
+      "https://huggingface.co/datasets/get-on-techbullion/press-release-benchmarks",
+      "https://kaggle.com/datasets/getontechbullion/press-release-benchmarks",
+      "https://get-on-techbullion.github.io/tech-bullion-press-release-builder/",
+      "https://www.quora.com/profile/Get-On-Techbullion",
+      "https://www.slideshare.net/slideshow/get-on-techbullion-fast-editorial-coverage-for-tech-brands/288837590"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Get-On-TechBullion/tech-bullion-press-release-builder",
+  "keywords": [
+    "press release builder",
+    "tech announcement",
+    "startup news",
+    "fintech PR",
+    "AI story builder",
+    "blockchain content",
+    "press release optimization",
+    "tech media distribution",
+    "TechBullion",
+    "GetOnTechBullion"
+  ]
+}

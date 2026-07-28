@@ -1,0 +1,21 @@
+site_name: TechBullion Press Release Builder
+site_url: https://techbullion-press-release-builder.readthedocs.io
+site_description: Helps businesses create professional press releases, technology announcements, startup news, fintech updates, AI stories, and blockchain content ready for publication.
+site_author: GetOnTechBullion.com
+
+repo_name: Get-On-TechBullion/tech-bullion-press-release-builder
+repo_url: https://github.com/Get-On-TechBullion/tech-bullion-press-release-builder
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light-blue
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
